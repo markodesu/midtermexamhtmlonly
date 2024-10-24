@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #182777;
+    padding: 5px 0;
+}
+
+.navbar {
+    list-style: none;
+    display: flex;
+    justify-content: left;
+}
+
+.navbar li {
+    margin: 0 20px;
+    justify-content: right;
+}
